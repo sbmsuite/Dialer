@@ -1,4 +1,6 @@
 "cDialer" is a simple dialer program that allows you to call clients using your computer's modem.
+Please notice I hard coded some values into the script. I have no way of knowing where you'll be
+pulling your data from. So I just harded coded some stuff so you can see what to do for yourself.
 
 Copyright (C) 2011 Christopher Rankin
 
